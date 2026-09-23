@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Project placeholder">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e7490"/>
+      <stop offset="55%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#bef264"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#f0fdfa"/>
+  <rect x="40" y="40" width="720" height="420" rx="24" fill="url(#g)"/>
+  <rect x="90" y="110" width="200" height="120" rx="16" fill="#fff" opacity="0.18"/>
+  <rect x="310" y="110" width="200" height="120" rx="16" fill="#fff" opacity="0.18"/>
+  <rect x="530" y="110" width="160" height="120" rx="16" fill="#fff" opacity="0.18"/>
+  <rect x="90" y="260" width="600" height="14" rx="7" fill="#fff" opacity="0.5"/>
+  <rect x="90" y="290" width="480" height="14" rx="7" fill="#fff" opacity="0.35"/>
+  <text x="400" y="430" text-anchor="middle" fill="#fff" font-family="ui-sans-serif,system-ui" font-size="20">Monitoring / security</text>
+</svg>

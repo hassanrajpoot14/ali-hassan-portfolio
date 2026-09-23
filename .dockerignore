@@ -1,0 +1,15 @@
+# https://www.docker.com/community/open-source/using-dockerignore/
+Dockerfile
+docker-compose.yml
+.dockerignore
+.git
+.github
+.gitignore
+README.md
+node_modules
+.next
+out
+coverage
+*.md
+.env*
+npm-debug.log*

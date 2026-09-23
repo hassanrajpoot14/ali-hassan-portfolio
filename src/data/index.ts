@@ -1,0 +1,16 @@
+export { profile, navLinks } from "./profile";
+export { portraits } from "./portraits";
+export { skillCategories } from "./skills";
+export type { SkillCategory, SkillItem } from "./skills";
+export { experience } from "./experience";
+export type { ExperienceItem } from "./experience";
+export { certifications } from "./certifications";
+export type { Certification } from "./certifications";
+export { projects } from "./projects";
+export type { Project } from "./projects";
+export { education } from "./education";
+export type { EducationItem } from "./education";
+export { highlights } from "./highlights";
+export type { Highlight } from "./highlights";
+export { principles } from "./principles";
+export type { Principle } from "./principles";
